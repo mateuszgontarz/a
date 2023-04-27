@@ -1,0 +1,119 @@
+#top {
+	
+	
+	width:1600px;
+	
+	
+}
+#nag{
+	clear:both;
+
+	width:1600px;
+	height:100px;
+	background-color:orange;
+	border-color:green;
+
+	
+	
+	
+	
+}
+#tresc{
+	
+	width:1200px;
+	height:800px;
+	overflow:hidden;
+	float:left;
+	font-size:50pt;
+	background-image:url("StalowaWola.jpg")
+	
+	
+	
+	
+	
+}
+
+#tresca{
+	
+	width:1200px;
+	height:800px;
+	overflow:hidden;
+	float:left;
+	font-size:50pt;
+	background-image:url(plywalnia.jpg)
+	
+	
+	
+	
+}
+#trescc{
+	
+	width:1200px;
+	height:800px;
+	overflow:hidden;
+	float:left;
+	font-size:50pt;
+	background-image:url(park24.jpg)
+	
+	
+	
+	
+}
+	#tresccccc{
+	
+	width:1200px;
+	height:800px;
+	overflow:hidden;
+	float:left;
+	font-size:50pt;
+	background-image:url(kosciol.jpg)
+	
+	
+	
+	
+}
+	#trescccc{
+	
+	width:1200px;
+	height:800px;
+	overflow:hidden;
+	float:left;
+	font-size:50pt;
+	background-image:url(galeria.jpg)
+	
+	
+	
+	
+}
+		
+	
+	
+	
+
+#naw{
+	width:400px;
+	height:800px;
+	float:left;
+	overflow:hidden;
+background-color:grey;
+font-size:35pt;
+
+border-color:green;
+border-width:thin;
+}
+
+a:hover{
+	color:white;
+	text-decoration:none;
+}
+	a{
+		text-decoration:none;
+		color:aqua;
+		
+	}
+	
+
+
+	
+	
+	
